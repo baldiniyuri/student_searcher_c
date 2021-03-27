@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Atividade_Pratica_2.dir/main.cpp.o  -o Atividade_Pratica_2 

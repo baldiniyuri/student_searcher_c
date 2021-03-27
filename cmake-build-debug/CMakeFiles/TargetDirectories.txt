@@ -1,0 +1,3 @@
+/home/yuri/CLionProjects/Atividade_Pratica_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuri/CLionProjects/Atividade_Pratica_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yuri/CLionProjects/Atividade_Pratica_2/cmake-build-debug/CMakeFiles/Atividade_Pratica_2.dir
